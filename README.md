@@ -30,9 +30,9 @@ var pg = require('pg');
 
 app.use(session({
   store: new crdbSession({
-        pg: pg,
-        conString: YOUR_CONNECTION_STRING,
-		tableName : 'user_sessions'   // default name is session
+    pg: pg,
+    conString: YOUR_CONNECTION_STRING,
+    tableName : 'user_sessions'   // default name is session
   }),
   secret: process.env.FOO_COOKIE_SECRET,
   resave: false,
