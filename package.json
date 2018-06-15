@@ -1,16 +1,16 @@
 {
-  "name": "connect-pg-simple",
-  "version": "5.0.0",
-  "description": "A simple, minimal PostgreSQL session store for Connect/Express",
-  "url": "http://github.com/voxpelli/node-connect-pg-simple",
+  "name": "connect-cockroachdb-simple",
+  "version": "1.0.0",
+  "description": "A simple, minimal CockroachDB session store for Connect/Express",
+  "url": "https://github.com/raymondflores/node-connect-cockroachdb-simple",
   "repository": {
     "type": "git",
-    "url": "git://github.com/voxpelli/node-connect-pg-simple.git"
+    "url": "git://github.com/raymondflores/node-connect-cockroachdb-simple.git"
   },
   "author": {
-    "name": "Pelle Wessman",
-    "email": "pelle@kodfabrik.se",
-    "url": "http://kodfabrik.se/"
+    "name": "Raymond Flores",
+    "email": "raymondfflores@gmail.com",
+    "url": "http://raymondflores.me"
   },
   "license": "MIT",
   "dependencies": {
