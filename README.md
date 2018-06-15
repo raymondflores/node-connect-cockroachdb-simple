@@ -1,6 +1,6 @@
 # Connect PG Simple
 
-A simple, minimal PostgreSQL session store for Express/Connect
+A simple, minimal CockroachDB session store for Express/Connect
 
 [![Build Status](https://travis-ci.org/voxpelli/node-connect-pg-simple.svg?branch=master)](https://travis-ci.org/voxpelli/node-connect-pg-simple)
 [![Coverage Status](https://coveralls.io/repos/voxpelli/node-connect-pg-simple/badge.svg)](https://coveralls.io/r/voxpelli/node-connect-pg-simple)
