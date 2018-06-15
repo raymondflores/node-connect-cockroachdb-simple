@@ -32,7 +32,7 @@ app.use(session({
   store: new crdbSession({
     pg: pg,
     conString: YOUR_CONNECTION_STRING,
-    tableName : 'user_sessions'   // default name is session
+    tableName : 'user_sessions'   // only add this if you want to change default one which is "session"
   }),
   secret: process.env.FOO_COOKIE_SECRET,
   resave: false,
