@@ -19,7 +19,7 @@ Once npm installed the module, you need to create the **session** table in your 
 
 ## Usage
 
-Examples are based on Express 4.
+Example is based on Express 4.
 
 Simple example:
 
